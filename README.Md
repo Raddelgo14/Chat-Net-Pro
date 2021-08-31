@@ -13,8 +13,6 @@ It is Family Friendly, and with great admins!
 # Ranks Available
 - Admin, Ex: 🔑Username
 - Mod, Ex: (Mod)Username
-- Bread Lord, Ex: 🍞Username
-- 2021, Ex: 2️⃣0️⃣2️⃣1️⃣Username
 
 Unavilable Ranks
 - None!
