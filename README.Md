@@ -3,7 +3,7 @@
 It is Family Friendly, and with great admins!
 # How do I get a Rank?
  You can get a Rank by,
- - Doing a Training for admin
+ - Doing a Training for admin or Mod
  - Joining during a event
  - Joining our GitHub and telling us your username on Chat net!
 
@@ -16,6 +16,9 @@ Admins
 - Orange
 - Ninjaeva22
 - Galaxium
+
+Moderators
+- Hello6
 
 Scripting
 - Anu
